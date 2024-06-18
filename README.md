@@ -142,13 +142,14 @@ https://github.com/NjushClinty/AssignmentProject.git
 
 - A reflection on the challenges faced during setup and strategies employed to overcome them.
  
- Challenges
- 1. Many downloads - This uses up space in the PC e.g. 
+               Challenges
+ 1. Many downloads - This uses up too much space in the PC 
  2. Slow download time- It may take some time downloading the setup enironment programs
  3. Lengthy install process- The programs have very long procedures in-order to finalize the installation
  4. Complex features- Programs such as python are very complex that require the know-how to operate it.
  5. Stringent/ Very keen installation process- Vs Code for example requires one to be keen when setting it up or it it will not operate properly.
- Mitigation strategies
+
+        Mitigation strategies
  1. Enough space- Acquisition of a hard drive, flash drive with enough space
  2. Strong internet connection- Using a stable connection for fast downloads when installing these programs
  3. Mastery- This will assist in quick setup
