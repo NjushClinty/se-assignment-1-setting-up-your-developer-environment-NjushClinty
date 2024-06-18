@@ -38,8 +38,122 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
+
+            Installing Windows
+    Requirements
+    .USB with at least 8GB space
+    Procedure
+    1. Download the windows media creation tool
+    -accept license terms
+    -choose USB Flash drive for the "create installation media"
+    -select language and edition(64 or 32)
+    -Choose USB flash drive with enough space(8GB)
+    -Create bootable USB drive using the prompts given
+    2. Installing the Windows
+    Plug in the bootable USB drive
+    Restart your computer
+    Navigate the BIOS settings by pressing F2 as your computer is booting
+    Changing boot order to prioritize the USB
+    Save the changes and exit
+    Follow the prompts to install
+    choose language
+    Click install now
+    Choose i don't have a product key
+    Accept license terms
+    Choose custom install windows only
+    Select partition to install Windows
+    -Follow the remaing prompts to complete install
+
+          Installing Visual Studio Code
+   - Visit the site code.visualstudio.com
+   - Click on download for Windows
+   - On your downloads, open the file
+   - Accept the agreement, click next
+   - Choose destinatin folder, click next
+   - Add Vs code to path ,click next
+   - Click install
+   - Click finish
+
+           Installing version control systems
+       Installing Git
+       -Search git on your search engine.(Access one under url git-scm.com)
+       -Download for windows
+       -Select the bit your device runs on (32 or 64)
+       -After downloading, search your downloads for the file
+       -Double click it
+       -Follow the prompts(click next)
+          .Check on Git
+           .Check on use vim
+           .Check on let git decide
+           .Click on choose recommended
+           .Click bundled open SSH
+           .Check out Window style
+           .Click use MinTTY
+           .Click Git credential manager
+       -Enable file system caching
+       -Install
+
+       Setting up Github
+       Go to github.com
+       Sign up using your email
+
+            Installing python
+        - Go to python.org
+        - Click on the downloads tab
+        - Click on the latest version
+        - Open it from your downloads
+        - Check on "Add python to path"
+        - Click install now
+        - Open your most preferred command prompt(E.g. Git bash) to verify 
+        - run 'python --version' to check the python version
+        - Also run 'pip --version to check if pip is installed
+        -Done
+
+            Installing MySQL 
+      - Visit mysql.com/downloads
+      - Click MySQL Installer for Windows
+      - Choose the version (Windows(x86,32-bit))
+      - Click download
+      - From your downloads open the file
+      - Following the prompts
+        .Choose Developer Default(recommended), click next
+      - Select execute to download and install MySQL products when prompted
+      - Select (Standalone MySQL Server)
+      - Choose default for MySQL version
+      - Set user account and password
+      - Configure window service settings
+      - Finish
+      -To verify;
+        . Open command prompt
+        . run 'mysql -u root -p'
+        .Enter your password to access MySQL command line
+
+        Extensions/Plugins for Visual studio
+        - Once in Visual studio;
+        To access extentions 
+         . Click on its icon(Most botton icon below the Vs icon) or
+         . press 'ctrl+Shift+X'
+        - Search an extension e.g. Python, prettier, click install to install them
+   - 
+
 - A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
+
+https://github.com/NjushClinty/AssignmentProject.git
+
 - A reflection on the challenges faced during setup and strategies employed to overcome them.
+ 
+ Challenges
+ 1. Many downloads - This uses up space in the PC e.g. 
+ 2. Slow download time- It may take some time downloading the setup enironment programs
+ 3. Lengthy install process- The programs have very long procedures in-order to finalize the installation
+ 4. Complex features- Programs such as python are very complex that require the know-how to operate it.
+ 5. Stringent/ Very keen installation process- Vs Code for example requires one to be keen when setting it up or it it will not operate properly.
+ Mitigation strategies
+ 1. Enough space- Acquisition of a hard drive, flash drive with enough space
+ 2. Strong internet connection- Using a stable connection for fast downloads when installing these programs
+ 3. Mastery- This will assist in quick setup
+ 4. Constant practice- To aid in learning these programs so as to easen navigation
+ 5. Accuracy - Being keen during the installation and setup to avoid unexpected errors
 
 #Submission:
 Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
